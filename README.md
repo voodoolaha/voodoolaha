@@ -1,58 +1,32 @@
 # Hi, I'm Sviatoslav 👋  
 **Full Stack Developer — TypeScript / React / Node.js**
 
-More than 8 years of experience in web and mobile development. I've built products from scratch and supported existing solutions for customers from the USA, UK, France, Israel, and Ukraine. I enjoy designing clean, maintainable architectures and delivering features that are both robust and user-friendly.
-
-- 💻 Strong in **TypeScript, React, Next.js, Node.js**
-- 🧩 Experience with **microservices, GraphQL, real-time apps, and cloud**
-- 👨‍🏫 Team leading & mentoring experience
-- 🌍 Based in Kharkiv, Ukraine
+8+ years of experience building web and mobile apps for clients worldwide. I focus on clean architecture, performance, and developer experience.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
+**Frontend:** React, Next.js, Vue, Angular  
+**Backend:** Node.js, Express, NestJS, GraphQL, REST  
+**Mobile:** React Native  
+**DB:** PostgreSQL, MySQL, MongoDB  
+**DevOps:** Docker, AWS, GCP  
+**Testing:** Jest, Cypress
 
-**Languages**
+---
 
-- JavaScript, TypeScript
+### 🚀 Highlights
+- Built scalable apps using **React, Node.js, PostgreSQL, GraphQL**
+- Experience with **microservices**, real-time apps (WebSocket), and cloud infrastructure  
+- Led and mentored developers, owned features end-to-end  
+- Delivered projects in AdTech, Social, Cloud Services, FinTech, and Crypto
 
-**Frontend**
+---
 
-- React, Next.js, Vue.js, Angular
-- Redux, Redux-Saga, React Context
-- SCSS, PWA, SPA
+### 📫 Contact
+📍 Kharkiv, Ukraine  
+✉️ sviatoslav.vodolaha@gmail.com  
 
-**Backend**
+---
 
-- Node.js, Express, NestJS
-- TypeORM, PrismaORM
-- REST, GraphQL (Apollo, Hasura)
-- WebSocket / Socket.io
-
-**Mobile**
-
-- React Native (iOS / Android)
-- Firebase, Async Storage
-- TestFlight, Android Studio, XCode
-
-**Databases**
-
-- PostgreSQL, MySQL, MongoDB
-
-**Testing**
-
-- Jest, React Testing Library, Cypress
-
-**DevOps & Cloud**
-
-- AWS, GCP
-- Docker, Kubernetes
-- GitHub Hooks, Jenkins, Google Cloud Build
-
-**Other Tools**
-
-- Apollo GraphQL, Hasura
-- Webpack
-- JIRA, Trello
-- MacOS, Linux (Ubuntu, KDE, CentOS)
-- CocoaPods, Expo, VMWare, NVM
+If you like my work, feel free to ⭐ repositories or connect!
